@@ -1,2 +1,2 @@
 # BigSleepAI
-Copy of an interesting AI graphics project
+Interesting AI graphics project
